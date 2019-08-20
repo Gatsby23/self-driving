@@ -1,0 +1,3 @@
+[submodule "lane-detection/CarND-Term1-Starter-Kit-Test"]
+	path = lane-detection/CarND-Term1-Starter-Kit-Test
+	url = https://github.com/udacity/CarND-Term1-Starter-Kit-Test.git
